@@ -6,6 +6,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         Dictionary
+        <a href="/" className="btn btn-primary shadow">Search</a>
       </header>
     </div>
   );
